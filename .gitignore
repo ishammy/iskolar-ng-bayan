@@ -1,0 +1,4 @@
+.env
+.vscode/
+config/super_secret.php
+config/passwords.txt
